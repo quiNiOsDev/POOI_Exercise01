@@ -1,0 +1,11 @@
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\bin\Debug\Laboratorio01.exe.config
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\bin\Debug\Laboratorio01.exe
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\bin\Debug\Laboratorio01.pdb
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.csproj.AssemblyReference.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.Properties.Resources.resources
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.csproj.GenerateResource.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.csproj.CoreCompileInputs.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.exe
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.pdb
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio01\obj\Debug\Laboratorio01.FrmRegistroAlumno.resources
